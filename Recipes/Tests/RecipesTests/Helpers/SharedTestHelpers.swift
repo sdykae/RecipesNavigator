@@ -20,7 +20,7 @@ func anyData() -> Data {
 }
 
 func makeItemsJSON(_ items: [[String: Any]]) -> Data {
-  let json = ["items": items]
+  let json = items
   return try! JSONSerialization.data(withJSONObject: json)
 }
 

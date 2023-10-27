@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct Recipe: Equatable {
+public struct Recipe: Equatable, Identifiable {
   public init(id: Int, name: String, imageURL: String, ingredients: [Ingredient]) {
     self.id = id
     self.name = name

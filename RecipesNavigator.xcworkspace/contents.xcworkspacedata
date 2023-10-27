@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:RecipesNavigatorApp/RecipesNavigatorApp.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Recipes">
    </FileRef>
 </Workspace>
