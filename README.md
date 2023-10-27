@@ -23,4 +23,5 @@
   - Recipes Package puede usarse para Diferentes tipos de App con targets diferentes a IOS como WatchOs o Mac
 
 - Se procedio Realizando la metodologia TDD que implica Crear una logica basica para los componentes iniciales (Recipe Loader Generico) y procedimentalmente se agregaron casos de prueba que incrementaban y mejoraban la funcionalidad hasta obtener un producto final que se modulariza
-- 
+![image](https://github.com/sdykae/RecipesNavigator/assets/50224521/7163c93b-be12-4070-8206-5931e9091ceb)
+
